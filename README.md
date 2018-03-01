@@ -1,5 +1,5 @@
 # Bash completion tutorial code
-Code of the bash completion tutorial from [iridakos.com](https://iridakos.com/tutorials/2018/02/28/bash-programmable-completion-tutorial)
+Code of the bash completion tutorial from [iridakos.com](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial)
 
 ![Bash completion demo](https://iridakos.com/assets/images/posts/bash-completion/bash-completion-tutorial.gif)
 
